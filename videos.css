@@ -1,0 +1,17 @@
+.video-title {
+    font-family: Arial,san-serif;
+    font-size: 500;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.video-stats {
+    font-family: Arial;
+    font-size: small;
+    font-weight: 500;
+    margin-top: 7px;
+    margin-bottom: 0;
+}
+.video-download {
+    margin-top: 5px;
+
+}
